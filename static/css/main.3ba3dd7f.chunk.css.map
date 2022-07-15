@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css","webpack://src/Components/GoodsList/goodsList.css"],"names":[],"mappings":"AAAA,gBAEE,gBACF,CCHA,GACE,WACF,CAEA,GACE,cAAe,CACf,kBACF","file":"main.3ba3dd7f.chunk.css","sourcesContent":[".button,\n.select {\n  margin-left: 10px;\n}\n","ul {\n  margin: 15px;\n}\n\nli {\n  font-size: 20px;\n  align-items: center;\n}\n"]}
